@@ -1,6 +1,6 @@
 # hackintosh-z690-i512400f-rx6700xt
 
-Install macOS Sonoma on Intel Z690 motherboard with Intel i5-1200F.
+Install macOS Sonoma on Intel Z690 motherboard with Intel i5-1200F & RX 6700 XT.
 
 ![](img/preview.png)
 
@@ -33,7 +33,7 @@ Install macOS Sonoma on Intel Z690 motherboard with Intel i5-1200F.
 | DDR4 RAM     | HyperX Fury Beast 32GB    | [Kingston](https://www.kingston.com/datasheets/KF436C16RB1A_16.pdf)                                                                          |
 | NVMe SSD     | WD_Black SN770 NVME       | [WD_Black](https://www.westerndigital.com/products/internal-drives/wd-black-sn770-nvme-ssd?sku=WDS250G3X0E)                                  |
 | Graphics     | AMD Radeon RX 6700XT      | [AMD Radeon RX 6700XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-6700-xt)                                                       |
-| WiFi / BT    | Intel® Wi-Fi 6E           | [www.intel.com](https://www.intel.com/content/www/us/en/products/sku/130293/intel-wifi-6-ax201-gig/specifications.html)                      |
+| WiFi / BT    | Intel® Wi-Fi 6E           | [Intel Wi-Fi 6E](https://www.intel.com/content/www/us/en/products/sku/130293/intel-wifi-6-ax201-gig/specifications.html)                     |
 | Lan / Ethernet| Intel® I225-V            |                                                                                                                                              |
 
 ### Kexts
