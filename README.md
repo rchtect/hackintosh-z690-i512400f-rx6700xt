@@ -1,6 +1,6 @@
 # hackintosh-z690-i512400f-rx6700xt
 
-Install macOS Sonoma on Intel Z690 motherboard with Intel i5-1200F.
+Install macOS Sonoma on Intel Z690 motherboard with Intel i5-1200F & RX 6700 XT.
 
 ![](img/preview.png)
 
