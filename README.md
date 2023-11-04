@@ -10,6 +10,7 @@ Install macOS Sonoma on Intel Z690 motherboard with Intel i5-1200F.
 
 - MacOS: [Sonoma](https://www.apple.com/macos/sonoma/)
 - Bootloader: [OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.5)
+- The process took around a day with a lot of trouble shooting, the most prominent issue was the different OpenCore configurations in config.plist which was needed in order for this to work.
 
 ### Functionality
 | Component    | Status |
@@ -48,7 +49,7 @@ Install macOS Sonoma on Intel Z690 motherboard with Intel i5-1200F.
 | NootRX.kext                          | GPU Support (No DRM Content)         |
 | NVMeFix.kext                         | NVME Fix                             |
 | SMCProcessor.kext                    | Needed for Alder Lake CPUs           |
-| SMCSuperIO.kext                      | NEeded for Alder Lake CPUs           |
+| SMCSuperIO.kext                      | Needed for Alder Lake CPUs           |
 | USBToolBox.kext                      | USB Mapping                          |
 | UTBMap.kext                          | USN Mapping                          |
 | VirtualSMC.kext                      | Required for OpenCore                |
